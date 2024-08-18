@@ -1,0 +1,52 @@
+body {
+    color: white;
+    background: black;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    margin: 20px;
+    font-size: 40px;
+    color: rgb(42, 122, 228);
+}
+
+.chamda {
+    background: rgb(128, 48, 40);
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.Cat-sofrencia {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    margin-bottom: 100px;
+}
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.Cat-poder {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
